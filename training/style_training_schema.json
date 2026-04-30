@@ -2,7 +2,7 @@
   "title": "Draftelier Style Training Schema",
   "subtitle": "LoRA-ready trigger, short caption, validation prompt, and negative prompt archive",
   "version": "1.0",
-  "created_on": "2026-03-31",
+  "created_on": "2026-04-30",
   "foundation_prefix": "fashion designer hand sketch, atelier croquis, expressive graphite construction lines, black ink definition, translucent marker and watercolor rendering, clean ivory paper background, couture presentation page",
   "field_usage": {
     "trigger_phrase": "Short style trigger for inference and validation prompts.",
