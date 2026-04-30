@@ -1,0 +1,14 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1024" height="1024" fill="#F7F6F4"/>
+  <circle cx="512" cy="512" r="338" fill="#080808"/>
+  <circle cx="512" cy="512" r="337" stroke="rgba(255,255,255,0.08)" stroke-width="2"/>
+  <path d="M338 610C430 533 516 430 566 315" stroke="rgba(255,255,255,0.12)" stroke-width="6"/>
+  <path d="M412 324L615 324L615 704L555 704L555 378L472 378L472 704L412 704L412 324Z" fill="rgba(255,255,255,0.08)"/>
+  <path d="M631 307L689 307L734 704L673 704L666 621L620 621L611 704L555 704L631 307ZM627 572L661 572L645 409L627 572Z" fill="rgba(255,255,255,0.08)"/>
+  <path d="M310 291C423 341 574 331 725 260" stroke="rgba(255,255,255,0.08)" stroke-width="2"/>
+  <path d="M310 737C406 654 569 620 747 678" stroke="rgba(255,255,255,0.08)" stroke-width="2"/>
+  <text x="512" y="491" text-anchor="middle" fill="#F8F6F1" font-family="Baskerville, Didot, Times New Roman, serif" font-size="86" letter-spacing="2">DRAFTELIER</text>
+  <text x="512" y="546" text-anchor="middle" fill="#F1EEE7" font-family="Helvetica Neue, Arial, sans-serif" font-size="34" letter-spacing="10">AI FASHION STUDIO</text>
+  <text x="512" y="722" text-anchor="middle" fill="#F0ECE4" font-family="Baskerville, Didot, Times New Roman, serif" font-size="28" letter-spacing="3">• AI-COUTURE FASHION</text>
+  <text x="512" y="766" text-anchor="middle" fill="#F0ECE4" font-family="Baskerville, Didot, Times New Roman, serif" font-size="28" letter-spacing="3">EDITORIAL</text>
+</svg>
